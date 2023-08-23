@@ -6,6 +6,10 @@
     "dev": "vuepress dev",
     "build": "vuepress build"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OrdinaryGod/development-record.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",

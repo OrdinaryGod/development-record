@@ -181,7 +181,7 @@ NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=/
 ```    
 * 文件目录结构：
 
-![图片](./images/clerk_dir.png)
+![图片](./img/clerk_dir.png)
 
 ::: tip OK
 emm... 其实这些配置在官方文档中都是有的，就不一一介绍了，只需要记住按照官方文档的配置就没问题。:stuck_out_tongue_closed_eyes:
