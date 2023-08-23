@@ -6,7 +6,7 @@ export default defineUserConfig({
     title: '开发记录',
     description: "编程开发记录与总结",
     base: '/development-record/',
-    head: [['link', { rel: 'icon', href: './img/favicon-16x16.png' }]],
+    head: [['link', { rel: 'icon', href: './favicon-16x16.png' }]],
     theme: defaultTheme({
         docsBranch: 'main',
         navbar: [
