@@ -26,6 +26,7 @@ export default defineUserConfig({
                 'link': '/',
             },
             'next-full-stack-app.md',
+            'monorepo.md'
         ],
     }),
     plugins: [],
